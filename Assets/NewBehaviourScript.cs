@@ -14,5 +14,6 @@ public class NewBehaviourScript : MonoBehaviour
     void Update()
     {
         Debug.Log("main");
+        Debug.Log("HJ");
     }
 }
